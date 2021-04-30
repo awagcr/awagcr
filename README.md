@@ -13,12 +13,12 @@ Se quiser me contatar pode mandar um e-mail para contato@alexandrewagner.com
 
 🤗🤗
 
-Hi! I'm Alexandre, developer in development, comming from Law to IT.
+Hi! I'm Alexandre, developer in the development, coming from Law to IT.
 
-I'm currently studing the fundamentals of programming specially in C and Javascript, with hints of PHP, Python, and Java here and there, having already ventured in the development
-of basic API's.
+I'm currently studying the fundamentals of programming especially in C and Javascript, with hints of PHP, Python, and Java here and there, having already ventured into the development
+of basic APIs.
 
-Here I'll post my study repositorys as well as other projects, more ambitious and professional, as they comme to fruition.
+Here I'll post my study repositories as well as other projects, more ambitious and professional, as they come to fruition.
 
 I'm open to collaboration and be my guest to go through the public code posted and suggest changes.
 
