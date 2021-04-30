@@ -1,4 +1,5 @@
 🤗🤗
+
 Olá! Sou Alexandre, desenvolvedor em formação, saído da área do Direito para a TI.
 
 Atualmente estou estudando os fundamentos básicos da programação principalmente em C e Javascript, com pitadas de PHP, Python e Java, já tendo me aventurado na elaboração de
