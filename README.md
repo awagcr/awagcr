@@ -10,7 +10,7 @@ Estou aberto à colaborar e sinta-se a vontade para ver e sugerir mudanças nos 
 
 Se quiser me contatar pode mandar um e-mail para contato@alexandrewagner.com
 
-###########################################################################################################################
+###########################################################################################
 
 Hi! I'm Alexandre, developer in the development, coming from Law to IT.
 
