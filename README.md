@@ -1,4 +1,3 @@
-🤗🤗
 
 Olá! Sou Alexandre, desenvolvedor em formação, saído da área do Direito para a TI.
 
@@ -11,7 +10,7 @@ Estou aberto à colaborar e sinta-se a vontade para ver e sugerir mudanças nos 
 
 Se quiser me contatar pode mandar um e-mail para contato@alexandrewagner.com
 
-🤗🤗
+
 
 Hi! I'm Alexandre, developer in the development, coming from Law to IT.
 
@@ -24,4 +23,4 @@ I'm open to collaboration and be my guest to go through the public code posted a
 
 If you want to contact me, send an e-mail to contac@alexandrewagner.com
 
-🤗🤗
+
